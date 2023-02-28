@@ -4,19 +4,19 @@
     "url": "https://rss.do",
     "icon": "https://icons.duckduckgo.com/ip3/rss.do.ico",
     "slug": "feeds-board-rss-do",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "95.50%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.96%",
     "time": 583,
-    "timeDay": 511,
-    "timeWeek": 546,
-    "timeMonth": 660,
+    "timeDay": 519,
+    "timeWeek": 545,
+    "timeMonth": 656,
     "timeYear": 583,
     "dailyMinutesDown": {
-      "2023-02-28": 0
+      "2023-02-28": 65
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.feedsbd.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.feedsbd.com.ico",
     "slug": "feeds-board-www-feedsbd-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.96%",
     "time": 499,
-    "timeDay": 481,
-    "timeWeek": 494,
-    "timeMonth": 480,
+    "timeDay": 492,
+    "timeWeek": 496,
+    "timeMonth": 481,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2023-02-28": 0
+      "2023-02-28": 65
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://rss.do/api/v1/hello",
     "icon": "https://icons.duckduckgo.com/ip3/rss.do.ico",
     "slug": "api-end-point",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.96%",
     "time": 285,
-    "timeDay": 239,
-    "timeWeek": 276,
-    "timeMonth": 274,
+    "timeDay": 255,
+    "timeWeek": 277,
+    "timeMonth": 275,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2023-02-28": 0
+      "2023-02-28": 65
     }
   },
   {
