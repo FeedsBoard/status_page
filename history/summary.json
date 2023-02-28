@@ -4,54 +4,60 @@
     "url": "https://rss.do",
     "icon": "https://icons.duckduckgo.com/ip3/rss.do.ico",
     "slug": "feeds-board-rss-do",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 584,
-    "timeDay": 539,
-    "timeWeek": 555,
-    "timeMonth": 665,
-    "timeYear": 584,
-    "dailyMinutesDown": {}
+    "time": 583,
+    "timeDay": 511,
+    "timeWeek": 546,
+    "timeMonth": 660,
+    "timeYear": 583,
+    "dailyMinutesDown": {
+      "2023-02-28": 0
+    }
   },
   {
     "name": "FeedsBoard www.feedsbd.com",
     "url": "https://www.feedsbd.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.feedsbd.com.ico",
     "slug": "feeds-board-www-feedsbd-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 499,
-    "timeDay": 506,
-    "timeWeek": 500,
-    "timeMonth": 481,
+    "timeDay": 481,
+    "timeWeek": 494,
+    "timeMonth": 480,
     "timeYear": 499,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-28": 0
+    }
   },
   {
     "name": "API EndPoint",
     "url": "https://rss.do/api/v1/hello",
     "icon": "https://icons.duckduckgo.com/ip3/rss.do.ico",
     "slug": "api-end-point",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
-    "timeDay": 300,
-    "timeWeek": 290,
-    "timeMonth": 277,
+    "timeDay": 239,
+    "timeWeek": 276,
+    "timeMonth": 274,
     "timeYear": 285,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-28": 0
+    }
   },
   {
     "name": "Test Broken Site",
