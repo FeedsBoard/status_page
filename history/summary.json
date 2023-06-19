@@ -48,9 +48,9 @@
     "url": "https://rss.do/api/v1/hello",
     "icon": "https://icons.duckduckgo.com/ip3/rss.do.ico",
     "slug": "api-end-point",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -60,6 +60,7 @@
     "timeMonth": 8890,
     "timeYear": 1734,
     "dailyMinutesDown": {
+      "2023-06-19": 0,
       "2023-05-09": 84,
       "2023-03-24": 20,
       "2023-02-28": 65
