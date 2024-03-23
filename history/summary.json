@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.do.ico",
     "slug": "feeds-board-rss-do",
     "status": "up",
-    "uptime": "97.29%",
+    "uptime": "97.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.26%",
     "time": 680,
-    "timeDay": 588,
-    "timeWeek": 538,
-    "timeMonth": 530,
-    "timeYear": 714,
+    "timeDay": 586,
+    "timeWeek": 541,
+    "timeMonth": 528,
+    "timeYear": 715,
     "dailyMinutesDown": {
       "2023-09-22": 81,
       "2023-07-05": 170,
@@ -33,8 +33,7 @@
       "2023-06-22": 1427,
       "2023-06-21": 1440,
       "2023-06-20": 961,
-      "2023-05-09": 84,
-      "2023-03-24": 20
+      "2023-05-09": 84
     }
   },
   {
@@ -49,9 +48,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.26%",
     "time": 602,
-    "timeDay": 584,
-    "timeWeek": 493,
-    "timeMonth": 489,
+    "timeDay": 575,
+    "timeWeek": 509,
+    "timeMonth": 490,
     "timeYear": 639,
     "dailyMinutesDown": {
       "2023-09-22": 81,
@@ -71,8 +70,7 @@
       "2023-06-22": 1440,
       "2023-06-21": 1440,
       "2023-06-20": 960,
-      "2023-05-09": 84,
-      "2023-03-24": 20
+      "2023-05-09": 84
     }
   },
   {
@@ -81,14 +79,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.do.ico",
     "slug": "api-end-point",
     "status": "up",
-    "uptime": "97.24%",
+    "uptime": "97.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.20%",
     "time": 2050,
-    "timeDay": 305,
-    "timeWeek": 279,
+    "timeDay": 314,
+    "timeWeek": 285,
     "timeMonth": 279,
     "timeYear": 2509,
     "dailyMinutesDown": {
@@ -112,8 +110,7 @@
       "2023-06-21": 1440,
       "2023-06-20": 958,
       "2023-06-19": 15,
-      "2023-05-09": 84,
-      "2023-03-24": 20
+      "2023-05-09": 84
     }
   },
   {
