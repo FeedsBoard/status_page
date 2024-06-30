@@ -5,23 +5,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.do.ico",
     "slug": "feeds-board-rss-do",
     "status": "up",
-    "uptime": "97.73%",
+    "uptime": "97.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.48%",
+    "uptimeYear": "98.60%",
     "time": 679,
-    "timeDay": 545,
-    "timeWeek": 515,
-    "timeMonth": 536,
+    "timeDay": 576,
+    "timeWeek": 539,
+    "timeMonth": 541,
     "timeYear": 618,
     "dailyMinutesDown": {
       "2023-09-22": 81,
       "2023-07-05": 170,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
-      "2023-07-02": 1427,
-      "2023-07-01": 1440
+      "2023-07-02": 1427
     }
   },
   {
@@ -30,23 +29,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.feedsbd.com.ico",
     "slug": "feeds-board-www-feedsbd-com",
     "status": "up",
-    "uptime": "97.73%",
+    "uptime": "97.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.47%",
+    "uptimeYear": "98.60%",
     "time": 603,
-    "timeDay": 496,
-    "timeWeek": 497,
-    "timeMonth": 494,
+    "timeDay": 557,
+    "timeWeek": 520,
+    "timeMonth": 498,
     "timeYear": 516,
     "dailyMinutesDown": {
       "2023-09-22": 81,
       "2023-07-05": 170,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
-      "2023-07-02": 1440,
-      "2023-07-01": 1440
+      "2023-07-02": 1440
     }
   },
   {
@@ -55,16 +53,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.do.ico",
     "slug": "api-end-point",
     "status": "up",
-    "uptime": "97.69%",
+    "uptime": "97.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.42%",
+    "uptimeYear": "98.54%",
     "time": 2045,
-    "timeDay": 281,
-    "timeWeek": 272,
-    "timeMonth": 277,
-    "timeYear": 1427,
+    "timeDay": 296,
+    "timeWeek": 279,
+    "timeMonth": 279,
+    "timeYear": 1424,
     "dailyMinutesDown": {
       "2023-09-22": 81,
       "2023-08-24": 136,
@@ -72,8 +70,7 @@
       "2023-07-05": 305,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
-      "2023-07-02": 1440,
-      "2023-07-01": 1440
+      "2023-07-02": 1440
     }
   },
   {
