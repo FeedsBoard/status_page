@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.do.ico",
     "slug": "feeds-board-rss-do",
     "status": "up",
-    "uptime": "97.99%",
+    "uptime": "98.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 673,
-    "timeDay": 592,
-    "timeWeek": 546,
-    "timeMonth": 557,
+    "timeDay": 421,
+    "timeWeek": 525,
+    "timeMonth": 553,
     "timeYear": 564,
     "dailyMinutesDown": {
       "2023-09-22": 81
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 609,
-    "timeDay": 582,
-    "timeWeek": 525,
-    "timeMonth": 526,
+    "timeDay": 398,
+    "timeWeek": 513,
+    "timeMonth": 522,
     "timeYear": 501,
     "dailyMinutesDown": {
       "2023-09-22": 81
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1888,
-    "timeDay": 298,
-    "timeWeek": 312,
-    "timeMonth": 307,
+    "time": 1864,
+    "timeDay": 244,
+    "timeWeek": 305,
+    "timeMonth": 298,
     "timeYear": 651,
     "dailyMinutesDown": {
       "2023-09-22": 81
