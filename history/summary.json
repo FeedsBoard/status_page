@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 555,
-    "timeDay": 652,
-    "timeWeek": 541,
-    "timeMonth": 531,
+    "timeDay": 598,
+    "timeWeek": 544,
+    "timeMonth": 538,
     "timeYear": 550,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "feeds-board-www-feedsbd-com",
     "status": "up",
     "uptime": "98.35%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 502,
-    "timeDay": 322,
-    "timeWeek": 458,
-    "timeMonth": 498,
-    "timeYear": 504,
-    "dailyMinutesDown": {
-      "2025-02-09": 14
-    }
+    "time": 501,
+    "timeDay": 150,
+    "timeWeek": 411,
+    "timeMonth": 490,
+    "timeYear": 503,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API EndPoint",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 477,
-    "timeDay": 253,
-    "timeWeek": 278,
-    "timeMonth": 280,
+    "timeDay": 297,
+    "timeWeek": 277,
+    "timeMonth": 282,
     "timeYear": 285,
     "dailyMinutesDown": {}
   },
