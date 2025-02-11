@@ -22,7 +22,7 @@
     "url": "https://www.feedsbd.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.feedsbd.com.ico",
     "slug": "feeds-board-www-feedsbd-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 749,
     "timeMonth": 580,
     "timeYear": 512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-11": 0
+    }
   },
   {
     "name": "API EndPoint",
@@ -41,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.do.ico",
     "slug": "api-end-point",
     "status": "up",
-    "uptime": "98.32%",
+    "uptime": "98.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
