@@ -22,19 +22,19 @@
     "url": "https://www.feedsbd.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.feedsbd.com.ico",
     "slug": "feeds-board-www-feedsbd-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.35%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 506,
-    "timeDay": 1208,
+    "timeDay": 1198,
     "timeWeek": 701,
     "timeMonth": 570,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2025-02-11": 12
+      "2025-02-11": 0
     }
   },
   {
