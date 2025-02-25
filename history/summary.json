@@ -22,7 +22,7 @@
     "url": "https://www.feedsbd.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.feedsbd.com.ico",
     "slug": "feeds-board-www-feedsbd-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.84%",
@@ -34,6 +34,7 @@
     "timeMonth": 399,
     "timeYear": 483,
     "dailyMinutesDown": {
+      "2025-02-25": 0,
       "2025-02-23": 107,
       "2025-02-22": 17,
       "2025-02-21": 38,
