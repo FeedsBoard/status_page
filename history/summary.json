@@ -4,10 +4,10 @@
     "url": "https://rss.do",
     "icon": "https://icons.duckduckgo.com/ip3/rss.do.ico",
     "slug": "feeds-board-rss-do",
-    "status": "up",
-    "uptime": "98.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "98.49%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 574,
@@ -15,7 +15,9 @@
     "timeWeek": 583,
     "timeMonth": 837,
     "timeYear": 569,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-24": 2
+    }
   },
   {
     "name": "FeedsBoard www.feedsbd.com",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.feedsbd.com.ico",
     "slug": "feeds-board-www-feedsbd-com",
     "status": "down",
-    "uptime": "94.29%",
+    "uptime": "94.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "89.63%",
+    "uptimeYear": "89.50%",
     "time": 439,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2025-04-24": 108,
+      "2025-04-24": 761,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
@@ -109,9 +111,9 @@
     "url": "https://rss.do/api/v1/hello",
     "icon": "https://icons.duckduckgo.com/ip3/rss.do.ico",
     "slug": "api-end-point",
-    "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.44%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -121,6 +123,7 @@
     "timeMonth": 396,
     "timeYear": 296,
     "dailyMinutesDown": {
+      "2025-04-24": 0,
       "2025-02-18": 307
     }
   },
