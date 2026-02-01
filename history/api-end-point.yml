@@ -1,7 +1,7 @@
 url: https://rss.do/api/v1/hello
-status: down
-code: 500
-responseTime: 297
-lastUpdated: 2026-01-31T23:13:58.748Z
+status: up
+code: 200
+responseTime: 305
+lastUpdated: 2026-02-01T03:24:09.156Z
 startTime: 2022-11-03T04:14:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
