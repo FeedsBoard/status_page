@@ -30,14 +30,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "4.06%",
+    "uptimeYear": "4.03%",
     "time": 244,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2026-03-02": 1439,
+      "2026-03-03": 155,
+      "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
@@ -399,8 +400,7 @@
       "2025-03-08": 66,
       "2025-03-07": 24,
       "2025-03-05": 50,
-      "2025-03-04": 58,
-      "2025-03-03": 25
+      "2025-03-04": 58
     }
   },
   {
@@ -410,12 +410,12 @@
     "slug": "api-end-point",
     "status": "up",
     "uptime": "97.63%",
-    "uptimeDay": "19.34%",
+    "uptimeDay": "21.30%",
     "uptimeWeek": "37.25%",
     "uptimeMonth": "62.21%",
     "uptimeYear": "95.96%",
     "time": 388,
-    "timeDay": 325,
+    "timeDay": 324,
     "timeWeek": 351,
     "timeMonth": 547,
     "timeYear": 417,
