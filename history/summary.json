@@ -30,14 +30,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "0.05%",
+    "uptimeYear": "0.03%",
     "time": 163,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-18": 247,
+      "2026-03-18": 341,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
@@ -409,15 +409,15 @@
     "url": "https://rss.do/api/v1/hello",
     "icon": "https://icons.duckduckgo.com/ip3/rss.do.ico",
     "slug": "api-end-point",
-    "status": "up",
-    "uptime": "98.23%",
-    "uptimeDay": "4.62%",
+    "status": "down",
+    "uptime": "98.24%",
+    "uptimeDay": "9.46%",
     "uptimeWeek": "68.03%",
     "uptimeMonth": "52.06%",
-    "uptimeYear": "94.05%",
+    "uptimeYear": "94.08%",
     "time": 392,
-    "timeDay": 344,
-    "timeWeek": 339,
+    "timeDay": 339,
+    "timeWeek": 341,
     "timeMonth": 352,
     "timeYear": 414,
     "dailyMinutesDown": {
@@ -484,8 +484,7 @@
       "2025-12-28": 226,
       "2025-12-27": 239,
       "2025-12-26": 113,
-      "2025-12-25": 215,
-      "2025-12-24": 152
+      "2025-12-25": 215
     }
   },
   {
