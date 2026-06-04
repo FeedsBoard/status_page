@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 593,
-    "timeDay": 513,
-    "timeWeek": 525,
-    "timeMonth": 543,
-    "timeYear": 582,
+    "timeDay": 359,
+    "timeWeek": 491,
+    "timeMonth": 537,
+    "timeYear": 581,
     "dailyMinutesDown": {
       "2025-11-18": 25
     }
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.feedsbd.com.ico",
     "slug": "feeds-board-www-feedsbd-com",
     "status": "down",
-    "uptime": "65.09%",
+    "uptime": "65.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-03": 281,
+      "2026-06-04": 266,
+      "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
@@ -399,8 +400,7 @@
       "2025-06-08": 1440,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
-      "2025-06-05": 1440,
-      "2025-06-04": 1440
+      "2025-06-05": 1440
     }
   },
   {
@@ -415,9 +415,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.91%",
     "time": 412,
-    "timeDay": 396,
-    "timeWeek": 787,
-    "timeMonth": 554,
+    "timeDay": 408,
+    "timeWeek": 771,
+    "timeMonth": 558,
     "timeYear": 428,
     "dailyMinutesDown": {
       "2025-12-28": 138,
